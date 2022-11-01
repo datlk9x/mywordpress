@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Accessories &#8211; Dat&#039;s WordPress</title>
+	<atom:link href="http://localhost/myproject/wordpress/product-category/accessories/feed/" rel="self" type="application/rss+xml" />
+	<link>https://datlk9x.github.io/mywordpress</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Fri, 14 Oct 2022 01:35:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.3</generator>
+	<item>
+		<title>Headphone for biker</title>
+		<link>https://datlk9x.github.io/mywordpress/product/headphone-for-biker/</link>
+					<comments>https://datlk9x.github.io/mywordpress/product/headphone-for-biker/#respond</comments>
+		
+		<dc:creator><![CDATA[Dat]]></dc:creator>
+		<pubDate>Fri, 14 Oct 2022 01:21:27 +0000</pubDate>
+				<guid isPermaLink="false">https://datlk9x.github.io/mywordpress/?post_type=product&#038;p=199</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipisicing elit Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p class="desc">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+<ul class="list-none">
+<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit</li>
+<li>Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</li>
+<li>Exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat</li>
+<li>Exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat</li>
+<li>Exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat</li>
+</ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://datlk9x.github.io/mywordpress/product/headphone-for-biker/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
