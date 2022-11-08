@@ -12,23 +12,23 @@
 	<atom:link href="http://localhost/myproject/wordpress/product-category/uncategorized/feed/" rel="self" type="application/rss+xml" />
 	<link>https://datlk9x.github.io/mywordpress</link>
 	<description>Just another WordPress site</description>
-	<lastBuildDate>Fri, 21 Oct 2022 00:46:00 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 07 Nov 2022 10:43:38 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.3</generator>
+	<generator>https://wordpress.org/?v=6.1</generator>
 	<item>
-		<title>Maier Sports Convertible</title>
-		<link>https://datlk9x.github.io/mywordpress/product/maier-sports-convertible/</link>
-					<comments>https://datlk9x.github.io/mywordpress/product/maier-sports-convertible/#respond</comments>
+		<title>Ludovic Péron Trek Bicycle</title>
+		<link>https://datlk9x.github.io/mywordpress/product/ludovic-peron-trek-bicycle/</link>
+					<comments>https://datlk9x.github.io/mywordpress/product/ludovic-peron-trek-bicycle/#respond</comments>
 		
 		<dc:creator><![CDATA[Dat]]></dc:creator>
-		<pubDate>Fri, 21 Oct 2022 00:39:21 +0000</pubDate>
-				<guid isPermaLink="false">https://datlk9x.github.io/mywordpress/?post_type=product&#038;p=242</guid>
+		<pubDate>Mon, 07 Nov 2022 10:43:38 +0000</pubDate>
+				<guid isPermaLink="false">https://datlk9x.github.io/mywordpress/?post_type=product&#038;p=451</guid>
 
-					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipisicing elit Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua [&#8230;]]]></description>
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud]]></description>
 										<content:encoded><![CDATA[<p class="desc">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
 <ul class="list-none">
 <li>Lorem ipsum dolor sit amet, consectetur adipisicing elit</li>
@@ -39,7 +39,107 @@
 </ul>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://datlk9x.github.io/mywordpress/product/maier-sports-convertible/feed/</wfw:commentRss>
+					<wfw:commentRss>https://datlk9x.github.io/mywordpress/product/ludovic-peron-trek-bicycle/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Keanu Specialized Road Bike</title>
+		<link>https://datlk9x.github.io/mywordpress/product/keanu-specialized-road-bike/</link>
+					<comments>https://datlk9x.github.io/mywordpress/product/keanu-specialized-road-bike/#respond</comments>
+		
+		<dc:creator><![CDATA[Dat]]></dc:creator>
+		<pubDate>Mon, 07 Nov 2022 10:41:59 +0000</pubDate>
+				<guid isPermaLink="false">https://datlk9x.github.io/mywordpress/?post_type=product&#038;p=449</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud]]></description>
+										<content:encoded><![CDATA[<p class="desc">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+<ul class="list-none">
+<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit</li>
+<li>Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</li>
+<li>Exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat</li>
+<li>Exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat</li>
+<li>Exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat</li>
+</ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://datlk9x.github.io/mywordpress/product/keanu-specialized-road-bike/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Mihir Parmar Scott Road Bike</title>
+		<link>https://datlk9x.github.io/mywordpress/product/mihir-parmar-scott-road-bike/</link>
+					<comments>https://datlk9x.github.io/mywordpress/product/mihir-parmar-scott-road-bike/#respond</comments>
+		
+		<dc:creator><![CDATA[Dat]]></dc:creator>
+		<pubDate>Mon, 07 Nov 2022 10:40:33 +0000</pubDate>
+				<guid isPermaLink="false">https://datlk9x.github.io/mywordpress/?post_type=product&#038;p=448</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud]]></description>
+										<content:encoded><![CDATA[<p class="desc">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+<ul class="list-none">
+<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit</li>
+<li>Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</li>
+<li>Exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat</li>
+<li>Exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat</li>
+<li>Exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat</li>
+</ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://datlk9x.github.io/mywordpress/product/mihir-parmar-scott-road-bike/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Merida One-Forty 700</title>
+		<link>https://datlk9x.github.io/mywordpress/product/merida-one-forty-700/</link>
+					<comments>https://datlk9x.github.io/mywordpress/product/merida-one-forty-700/#respond</comments>
+		
+		<dc:creator><![CDATA[Dat]]></dc:creator>
+		<pubDate>Mon, 07 Nov 2022 10:38:51 +0000</pubDate>
+				<guid isPermaLink="false">https://datlk9x.github.io/mywordpress/?post_type=product&#038;p=447</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud]]></description>
+										<content:encoded><![CDATA[<p class="desc">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+<ul class="list-none">
+<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit</li>
+<li>Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</li>
+<li>Exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat</li>
+<li>Exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat</li>
+<li>Exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat</li>
+</ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://datlk9x.github.io/mywordpress/product/merida-one-forty-700/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Ardo19 Giant TCX Cyclocros</title>
+		<link>https://datlk9x.github.io/mywordpress/product/ardo19-giant-tcx-cyclocros/</link>
+					<comments>https://datlk9x.github.io/mywordpress/product/ardo19-giant-tcx-cyclocros/#respond</comments>
+		
+		<dc:creator><![CDATA[Dat]]></dc:creator>
+		<pubDate>Mon, 07 Nov 2022 10:34:34 +0000</pubDate>
+				<guid isPermaLink="false">https://datlk9x.github.io/mywordpress/?post_type=product&#038;p=446</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud]]></description>
+										<content:encoded><![CDATA[<p class="desc">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+<ul class="list-none">
+<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit</li>
+<li>Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</li>
+<li>Exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat</li>
+<li>Exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat</li>
+<li>Exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat</li>
+</ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://datlk9x.github.io/mywordpress/product/ardo19-giant-tcx-cyclocros/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
